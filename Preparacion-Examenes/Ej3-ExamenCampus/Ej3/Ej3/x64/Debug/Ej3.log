@@ -1,0 +1,4 @@
+﻿  ej3.cpp
+C:\Universidad\ED\EjerciciosJuez\Preparacion-Examenes\Ej3-ExamenCampus\Ej3\Ej3\ej3.cpp(86,41): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Universidad\ED\EjerciciosJuez\Preparacion-Examenes\Ej3-ExamenCampus\Ej3\Ej3\ej3.cpp(114,44): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Ej3.vcxproj -> C:\Universidad\ED\EjerciciosJuez\Preparacion-Examenes\Ej3-ExamenCampus\Ej3\x64\Debug\Ej3.exe
