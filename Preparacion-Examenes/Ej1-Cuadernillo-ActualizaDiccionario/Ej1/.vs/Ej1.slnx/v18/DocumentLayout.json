@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Universidad\\ED\\EjerciciosJuez\\Preparacion-Examenes\\Ej1-Cuadernillo-ActualizaDiccionario\\Ej1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A505C205-A9CB-4CC6-B477-56AFF2A2225D}|Ej1\\Ej1.vcxproj|C:\\Universidad\\ED\\EjerciciosJuez\\Preparacion-Examenes\\Ej1-Cuadernillo-ActualizaDiccionario\\Ej1\\Ej1\\Ej1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A505C205-A9CB-4CC6-B477-56AFF2A2225D}|Ej1\\Ej1.vcxproj|solutionrelative:Ej1\\Ej1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ej1.cpp",
+              "DocumentMoniker": "C:\\Universidad\\ED\\EjerciciosJuez\\Preparacion-Examenes\\Ej1-Cuadernillo-ActualizaDiccionario\\Ej1\\Ej1\\Ej1.cpp",
+              "RelativeDocumentMoniker": "Ej1\\Ej1.cpp",
+              "ToolTip": "C:\\Universidad\\ED\\EjerciciosJuez\\Preparacion-Examenes\\Ej1-Cuadernillo-ActualizaDiccionario\\Ej1\\Ej1\\Ej1.cpp",
+              "RelativeToolTip": "Ej1\\Ej1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-24T10:51:02.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
