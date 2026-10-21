@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Universidad\\ED\\EjerciciosJuez\\Preparacion-Examenes\\Ej4-Cuadernillo-ArbolesZurdos\\Ej4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1FE54E-AAD2-4AF7-B4B7-35205269F852}|Ej4\\Ej4.vcxproj|C:\\Universidad\\ED\\EjerciciosJuez\\Preparacion-Examenes\\Ej4-Cuadernillo-ArbolesZurdos\\Ej4\\Ej4\\datos.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1A1FE54E-AAD2-4AF7-B4B7-35205269F852}|Ej4\\Ej4.vcxproj|solutionrelative:Ej4\\datos.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1FE54E-AAD2-4AF7-B4B7-35205269F852}|Ej4\\Ej4.vcxproj|C:\\Universidad\\ED\\EjerciciosJuez\\Preparacion-Examenes\\Ej4-Cuadernillo-ArbolesZurdos\\Ej4\\Ej4\\Ej4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A1FE54E-AAD2-4AF7-B4B7-35205269F852}|Ej4\\Ej4.vcxproj|solutionrelative:Ej4\\Ej4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1FE54E-AAD2-4AF7-B4B7-35205269F852}|Ej4\\Ej4.vcxproj|C:\\Universidad\\ED\\EjerciciosJuez\\Preparacion-Examenes\\Ej4-Cuadernillo-ArbolesZurdos\\Ej4\\Ej4\\bintree_eda.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A1FE54E-AAD2-4AF7-B4B7-35205269F852}|Ej4\\Ej4.vcxproj|solutionrelative:Ej4\\bintree_eda.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "datos.txt",
+              "DocumentMoniker": "C:\\Universidad\\ED\\EjerciciosJuez\\Preparacion-Examenes\\Ej4-Cuadernillo-ArbolesZurdos\\Ej4\\Ej4\\datos.txt",
+              "RelativeDocumentMoniker": "Ej4\\datos.txt",
+              "ToolTip": "C:\\Universidad\\ED\\EjerciciosJuez\\Preparacion-Examenes\\Ej4-Cuadernillo-ArbolesZurdos\\Ej4\\Ej4\\datos.txt",
+              "RelativeToolTip": "Ej4\\datos.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-24T09:52:32.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bintree_eda.h",
+              "DocumentMoniker": "C:\\Universidad\\ED\\EjerciciosJuez\\Preparacion-Examenes\\Ej4-Cuadernillo-ArbolesZurdos\\Ej4\\Ej4\\bintree_eda.h",
+              "RelativeDocumentMoniker": "Ej4\\bintree_eda.h",
+              "ToolTip": "C:\\Universidad\\ED\\EjerciciosJuez\\Preparacion-Examenes\\Ej4-Cuadernillo-ArbolesZurdos\\Ej4\\Ej4\\bintree_eda.h",
+              "RelativeToolTip": "Ej4\\bintree_eda.h",
+              "ViewState": "AgIAANYAAAAAAAAAAAAcwPMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-24T09:07:10.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ej4.cpp",
+              "DocumentMoniker": "C:\\Universidad\\ED\\EjerciciosJuez\\Preparacion-Examenes\\Ej4-Cuadernillo-ArbolesZurdos\\Ej4\\Ej4\\Ej4.cpp",
+              "RelativeDocumentMoniker": "Ej4\\Ej4.cpp",
+              "ToolTip": "C:\\Universidad\\ED\\EjerciciosJuez\\Preparacion-Examenes\\Ej4-Cuadernillo-ArbolesZurdos\\Ej4\\Ej4\\Ej4.cpp",
+              "RelativeToolTip": "Ej4\\Ej4.cpp",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwD4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-24T09:05:57.424Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
