@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="EJ2-AQueHoraTerminas/EJ2-AQueHoraTerminas.vcxproj" Id="5d4fa5eb-c1a9-4eba-844d-2cb2f3d1458e" />
+</Solution>
