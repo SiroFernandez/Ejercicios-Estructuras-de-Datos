@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Universidad\\ED\\EjerciciosJuez\\Preparacion-Examenes\\Ej5-Cuadernillo-ComprobarArbolBinBusq\\Ej5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4243AED9-AA49-46C8-853C-101567443542}|Ej5\\Ej5.vcxproj|C:\\Universidad\\ED\\EjerciciosJuez\\Preparacion-Examenes\\Ej5-Cuadernillo-ComprobarArbolBinBusq\\Ej5\\Ej5\\Ej5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4243AED9-AA49-46C8-853C-101567443542}|Ej5\\Ej5.vcxproj|solutionrelative:Ej5\\Ej5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ej5.cpp",
+              "DocumentMoniker": "C:\\Universidad\\ED\\EjerciciosJuez\\Preparacion-Examenes\\Ej5-Cuadernillo-ComprobarArbolBinBusq\\Ej5\\Ej5\\Ej5.cpp",
+              "RelativeDocumentMoniker": "Ej5\\Ej5.cpp",
+              "ToolTip": "C:\\Universidad\\ED\\EjerciciosJuez\\Preparacion-Examenes\\Ej5-Cuadernillo-ComprobarArbolBinBusq\\Ej5\\Ej5\\Ej5.cpp",
+              "RelativeToolTip": "Ej5\\Ej5.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-24T09:55:01.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
