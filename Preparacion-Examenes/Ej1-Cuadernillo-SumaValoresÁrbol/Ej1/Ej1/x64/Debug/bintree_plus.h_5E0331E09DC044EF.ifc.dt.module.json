@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\bintree_plus.obj",
+            "outputs": [
+                "x64\\Debug\\bintree_plus.h_5E0331E09DC044EF.ifc.dt.module.json",
+                "x64\\Debug\\bintree_plus.h_5E0331E09DC044EF.ifc.dt.d.json",
+                "x64\\Debug\\bintree_plus.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Universidad\\ED\\EjerciciosJuez\\Preparacion-Examenes\\Ej1-Cuadernillo-SumaValoresÁrbol\\Ej1\\Ej1\\bintree_plus.h",
+                    "source-path": "c:\\universidad\\ed\\ejerciciosjuez\\preparacion-examenes\\ej1-cuadernillo-sumavaloresárbol\\ej1\\ej1\\bintree_plus.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
