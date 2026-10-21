@@ -1,0 +1,3 @@
+﻿  Ej60.cpp
+C:\Universidad\ED\EjerciciosJuez\Ejercicio60-Elecciones\Ej60\Ej60\Ej60.cpp(127,19): error C2079: 'in' utiliza class 'std::basic_ifstream<char,std::char_traits<char>>' sin definir
+C:\Universidad\ED\EjerciciosJuez\Ejercicio60-Elecciones\Ej60\Ej60\Ej60.cpp(134,20): error C3536: 'cinbuf': no se puede usar antes de inicializarse
