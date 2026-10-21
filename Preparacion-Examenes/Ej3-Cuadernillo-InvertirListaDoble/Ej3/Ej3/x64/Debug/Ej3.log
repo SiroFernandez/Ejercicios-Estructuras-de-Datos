@@ -1,0 +1,9 @@
+﻿  ej3.cpp
+C:\Universidad\ED\EjerciciosJuez\Preparacion-Examenes\Ej3-Cuadernillo-InvertirListaDoble\Ej3\Ej3\ej3.cpp(11,1): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Universidad\ED\EjerciciosJuez\Preparacion-Examenes\Ej3-Cuadernillo-InvertirListaDoble\Ej3\Ej3\ej3.cpp(11,14): error C2146: error de sintaxis: falta ';' delante del identificador 'resolver'
+C:\Universidad\ED\EjerciciosJuez\Preparacion-Examenes\Ej3-Cuadernillo-InvertirListaDoble\Ej3\Ej3\ej3.cpp(11,40): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Universidad\ED\EjerciciosJuez\Preparacion-Examenes\Ej3-Cuadernillo-InvertirListaDoble\Ej3\Ej3\ej3.cpp(11,40): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Universidad\ED\EjerciciosJuez\Preparacion-Examenes\Ej3-Cuadernillo-InvertirListaDoble\Ej3\Ej3\ej3.cpp(22,18): error C2146: error de sintaxis: falta ';' delante del identificador 'sol'
+C:\Universidad\ED\EjerciciosJuez\Preparacion-Examenes\Ej3-Cuadernillo-InvertirListaDoble\Ej3\Ej3\ej3.cpp(22,18): error C2065: 'sol': identificador no declarado
+C:\Universidad\ED\EjerciciosJuez\Preparacion-Examenes\Ej3-Cuadernillo-InvertirListaDoble\Ej3\Ej3\ej3.cpp(22,33): error C2065: 'datos': identificador no declarado
+C:\Universidad\ED\EjerciciosJuez\Preparacion-Examenes\Ej3-Cuadernillo-InvertirListaDoble\Ej3\Ej3\ej3.cpp(22,24): error C3861: 'resolver': no se encontró el identificador

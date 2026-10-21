@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Universidad\\ED\\EjerciciosJuez\\Preparacion-Examenes\\Ej3-Cuadernillo-InvertirListaDoble\\Ej3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB43174-F497-4384-8A16-3414F2172D5A}|Ej3\\Ej3.vcxproj|C:\\Universidad\\ED\\EjerciciosJuez\\Preparacion-Examenes\\Ej3-Cuadernillo-InvertirListaDoble\\Ej3\\Ej3\\double_linked_plus.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AAB43174-F497-4384-8A16-3414F2172D5A}|Ej3\\Ej3.vcxproj|solutionrelative:Ej3\\double_linked_plus.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB43174-F497-4384-8A16-3414F2172D5A}|Ej3\\Ej3.vcxproj|C:\\Universidad\\ED\\EjerciciosJuez\\Preparacion-Examenes\\Ej3-Cuadernillo-InvertirListaDoble\\Ej3\\Ej3\\ej3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AAB43174-F497-4384-8A16-3414F2172D5A}|Ej3\\Ej3.vcxproj|solutionrelative:Ej3\\ej3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB43174-F497-4384-8A16-3414F2172D5A}|Ej3\\Ej3.vcxproj|C:\\Universidad\\ED\\Plantillas\\TADs\\double_linked_list_ed.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "double_linked_plus.h",
+              "DocumentMoniker": "C:\\Universidad\\ED\\EjerciciosJuez\\Preparacion-Examenes\\Ej3-Cuadernillo-InvertirListaDoble\\Ej3\\Ej3\\double_linked_plus.h",
+              "RelativeDocumentMoniker": "Ej3\\double_linked_plus.h",
+              "ToolTip": "C:\\Universidad\\ED\\EjerciciosJuez\\Preparacion-Examenes\\Ej3-Cuadernillo-InvertirListaDoble\\Ej3\\Ej3\\double_linked_plus.h",
+              "RelativeToolTip": "Ej3\\double_linked_plus.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-23T15:31:49.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "double_linked_list_ed.h",
+              "DocumentMoniker": "C:\\Universidad\\ED\\Plantillas\\TADs\\double_linked_list_ed.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Plantillas\\TADs\\double_linked_list_ed.h",
+              "ToolTip": "C:\\Universidad\\ED\\Plantillas\\TADs\\double_linked_list_ed.h",
+              "RelativeToolTip": "..\\..\\..\\..\\Plantillas\\TADs\\double_linked_list_ed.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-23T15:31:32.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ej3.cpp",
+              "DocumentMoniker": "C:\\Universidad\\ED\\EjerciciosJuez\\Preparacion-Examenes\\Ej3-Cuadernillo-InvertirListaDoble\\Ej3\\Ej3\\ej3.cpp",
+              "RelativeDocumentMoniker": "Ej3\\ej3.cpp",
+              "ToolTip": "C:\\Universidad\\ED\\EjerciciosJuez\\Preparacion-Examenes\\Ej3-Cuadernillo-InvertirListaDoble\\Ej3\\Ej3\\ej3.cpp",
+              "RelativeToolTip": "Ej3\\ej3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-23T15:27:08.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
